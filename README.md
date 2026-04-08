@@ -40,10 +40,10 @@ To automatically run your script at startup, open the crontab editor using `cron
 
 ## Step 10: Notes
 
-You can use any hardware setup or enclosure you prefer depending on your project goals. This setup is intended as a simple and customizable terminal-style display project built for flexibility and experimentation. \n
+You can use any hardware setup or enclosure you prefer depending on your project goals. This setup is intended as a simple and customizable terminal-style display project built for flexibility and experimentation.
 
-honoroable mentionz: chatgpt \n
+honoroable mentionz: chatgpt
 
-also keep in mind that the pi is set to power on as soon its connected to power. make sure to properly shut it down to prevent sd corruption by pressing on key1 button on the left (hold it for 3 seconds) \n
+also keep in mind that the pi is set to power on as soon its connected to power. make sure to properly shut it down to prevent sd corruption by pressing on key1 button on the left (hold it for 3 seconds)
 
 the network information can again, be configured through the sd card plugged into your computer, and editing the network-config file. All you have to do is add your SSID (network name) and password in a json-like format - if you dont know how to do it, just chatgpt it lol. If that doesn't all work, you'll need an hdmi to mini hdmi cable to link it up to a monitor and use a usb b keyboard... which requires an adapter. ok point besides that, its complicated and its better to just ssh into it.
